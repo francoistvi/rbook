@@ -1,6 +1,5 @@
-book_filename: "Rbookdown"
+book_filename: "bookdown-demo"
 language:
   ui:
-    chapter_name: " "
+    chapter_name: "Chapter "
 delete_merged_file: true
-I was born in Hue, Vietnam in the late 1950’s.  Attending French schools with an interest in the sciences, I was always a good student and often voted class president by my peers.  My family moved to Saigon where I attended high school at Ngo Quyen and passed the highly competitive baccalaureate exam.  In 1975, I left Saigon on my brother’s helicopter leaving half my family including my parents behind.  Not knowing I would not return for 20 years, I came to the United States seeking refugee resettlement.

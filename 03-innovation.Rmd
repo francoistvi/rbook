@@ -1,0 +1,48 @@
+# Innovation
+
+Innovative Teaching Strategies and Materials:
+
+Francois Nguyen is a believer and early implementer of technology in the classroom. As early as the 1990s, Francois adopted computer technology to teach math using platforms such as PLATO and Math Enables. Even though these platforms were not well developed, they allowed students to work individually at their own pace which especially served limited English speaking students well.  
+
+As technology grew, Francois was involved in the development of the ITC (Information Technology Center) which offered a computer lab for individual workers and a multimedia classroom for group instruction. Francois worked with colleague Bob Bilyk to implement many innovative teaching strategies. 
+
+ 
+
+Francois was among the first to provide online classes to students in the early 2000s. His algebra classes allowed students to work at their own pace while also getting feedback and evaluations from him. The online class structure more easily accommodated differentiation and a more personalized learning approach. 
+
+ 
+
+Francois used the flipped classroom model early on. Students would prepare their materials before coming to class and use class time to come together with common questions. This method created a more nurturing and supportive environment where students felt safe to ask questions and learn from each other. 
+
+ 
+
+For students who were first generation college students, limited English proficient, or coming back to education after a long time, Francois’ classes were a place where students could get to know each other and work in groups so they could feel supported by their peers. 
+
+ 
+
+Another innovation Francois developed and taught were the accelerated algebra classes which enabled students to complete an algebra course in half a semester saving time and money. This enabled students to more quickly enter into their major training program. 
+
+ 
+
+In 2020, Franoois developed and taught an intermediate statistics class. This class attracted many students from college programs requiring statistics. It was a project based class where students had to use various programs for data analysis. This class emphasized real world examples such as analyzing COVID data and election results. After this class, students could further their study of data sciences inspiring them to continue in that high demand field. 
+
+“Intermediate Statistics was a great class. Coming in, I was expecting a traditional math course that would follow the lecture, homework, and exam format. Instead, I was presented with an engaging project-based class that allowed me to explore my interests while learning more about the application of statistics. I really enjoyed the open discussion format of the lectures.  Professor Francois made sure to incorporate current events to explain more theoretical topics. We discussed the 2020 election, COVID-19, and other data-driven topics.  As a data science major, I appreciated the class projects which required us to find reliable data sources and prepare them for analysis. If you are interested in research, open discussion, and being creative with statistics, I highly recommend this class.” 
+
+ 
+
+A final example of a class that had real world implications was his applied math classes. These classes were set up for carpentry, welding, cabinetmaking, and other highly skilled areas. Even though these students used hands-on skills, math was a vital subskill which was used daily. Often there would be limited English speakers in these classes which Francois would pair with a native English speaker. Working together would be beneficial for both students as they could learn different things from each other. This also created camaraderie and enhanced the friendly classroom environment. Students not only used critical thinking to manipulate numbers and formulas, but also logical reasoning to express answers with charts and graphs which were more useful in real world situations. 
+
+ 
+
+Overall, Francois used his many years of experience and innovative spirit to develop and teach a variety of classes to meet the ever changing needs of society. His empathy towards non native English speakers as well as his ability to make every student comfortable and even have fun learning math make him a one-of-a-kind and inspirational educator. 
+
+
+You can also use math in footnotes like this^[where we mention $p = \frac{a}{b}$].
+
+We will approximate standard error to 0.027[^longnote]
+
+[^longnote]: $p$ is unknown but expected to be around 1/3. Standard error will be approximated
+
+    $$
+    SE = \sqrt{\frac{p(1-p)}{n}} \approx \sqrt{\frac{1/3 (1 - 1/3)} {300}} = 0.027
+    $$
